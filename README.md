@@ -5,4 +5,4 @@ This is an example of how you can clean and score the data that comes from the [
 
 **Note:** In our example, 3 alcoholic beverage items were not included because of the particular target population. If you should need these items, you will need to adjust your coding/labels, etc. See Excel file with each beverage label.
 
-![Bevq](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3379009/figure/F1/?report=objectonly)
+![Bevq](https://github.com/rebekahjacob/Bevq/blob/master/Bevq%20tool%20pic.jpg)
