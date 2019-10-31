@@ -227,6 +227,8 @@ beverages (par\_bev\_7), sweet tea (par\_bev\_9), sweetened coffee
 (par\_bev\_10), energy drinks (par\_bev\_15), and mixed alcoholic
 drinks).
 
+**Note** These categories were used for our study with moms and babies, you may choose to define SSB in your own terms and add to/edit the code.
+
 Note that since this is a sum, we keep cases where some beverages are
 NA, unless all beverages are NA, then the total will also be NA.
 
