@@ -75,7 +75,7 @@ times per day (“pd”).
 
 Original: par\_bev\_1 through par\_bev\_16
 
-1= Never or less than 1 tme per week\_\_\_\_**new = 0**
+1= Never or less than 1 time per week\_\_\_\_**new = 0**
 
 2= 1 time per week\_\_\_\_**new = 1/7 or .0143**
 
@@ -118,7 +118,7 @@ bevq.df<- bevq.df %>%
 
 ### Unit ounces (“oz”)
 
-Next, we convert the amount consumed (originally a likert scale) into
+Next, we convert the amount consumed (originally a Likert scale) into
 actual ounces so that it can then be used in an equation (per day x
 ounces= oz/pd)
 
