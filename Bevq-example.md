@@ -18,7 +18,7 @@ library(tidyverse) #data management
 library(openxlsx) #read write Excel files
 ```
 
-Read in data.
+Read in data. *This is a test.*
 
 ``` r
 rj_url <- "https://raw.github.com/rebekahjacob/Bevq/master/bevq_data.xlsx"
